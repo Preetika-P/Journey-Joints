@@ -151,6 +151,7 @@ cd MajorProject
 git init
 git remote add origin {https://github.com/Preetika-P/Journey-Joints}
 git add .
-git commit -m "{commit_message}"
+git commit -m "{successful commit}"
 git branch -M main
 git push -u origin main
+git remote set-url origin https://github.com/Preetika-P/Journey-Joints
